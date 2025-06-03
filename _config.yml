@@ -21,7 +21,7 @@ repository               : "yuntao229/yuntao229.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yuntao.png"
+  avatar           : "profile.png"
   name             : "Yuntao WEI"
   pronouns         : "he/him"
   bio              : "A PhD Candidate in Video Coding & Coding for MLLM"
