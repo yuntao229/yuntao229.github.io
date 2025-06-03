@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong"
-site_theme               : "default"
 title                    : "Welcome to Yuntao'space"
 title_separator          : "-"
 name                     : "Yuntao WEI"
@@ -22,7 +21,7 @@ repository               : "yuntao229/yuntao229.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/yuntao.png"
+  avatar           : "yuntao.png"
   name             : "Yuntao WEI"
   pronouns         : "he/him"
   bio              : "A PhD Candidate in Video Coding & Coding for MLLM"
