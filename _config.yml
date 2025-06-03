@@ -27,7 +27,7 @@ author:
   bio              : "A PhD Candidate in Video Coding & Coding for MLLM"
   location         : "Hong Kong"
   employer         : "PolyU"
-  uri              : "https://yuntao229.github.io" # URL
+  url              : "https://yuntao229.github.io" # URL
   email            : "yuntao.wei@connect.polyu.hk" 
 
   # Academic websites
