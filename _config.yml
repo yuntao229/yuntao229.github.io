@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong"
+site_theme               : "default"
 title                    : "Welcome to Yuntao'space"
 title_separator          : "-"
 name                     : "Yuntao WEI"
@@ -27,7 +28,7 @@ author:
   bio              : "A PhD Candidate in Video Coding & Coding for MLLM"
   location         : "Hong Kong"
   employer         : "PolyU"
-  url              : "https://yuntao229.github.io" # URL
+  uri              : "https://yuntao229.github.io" # URL
   email            : "yuntao.wei@connect.polyu.hk" 
 
   # Academic websites
