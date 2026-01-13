@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Welcome to Yuntao'Space"
 title_separator          : "-"
 name                     : &name "Yuntao"
-description              : &description "A PhD Candidate in Video Coding & Coding for MLLM"
+description              : &description "PhD Candidate@PolyU"
 url                      : https://yuntao229.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuntao229/yuntao229.github.io"
@@ -22,7 +22,7 @@ repository               : "yuntao229/yuntao229.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/IMG_1170.JPG"
   name             : "Yuntao WEI"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "A PhD Candidate in Video Coding & Coding for MLLM"
