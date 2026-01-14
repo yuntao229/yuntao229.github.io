@@ -22,7 +22,7 @@ repository               : "yuntao229/yuntao229.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/yuntao2.png"
+  avatar           : "yuntao2.png"
   name             : "Yuntao WEI"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD Candidate@PolyU"
