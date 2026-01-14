@@ -22,10 +22,10 @@ repository               : "yuntao229/yuntao229.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_1170.JPG"
+  avatar           : "images/yuntao2.png"
   name             : "Yuntao WEI"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "A PhD Candidate in Video Coding & Coding for MLLM"
+  bio              : "PhD Candidate@PolyU"
   location         : "HK"
   employer         : "PolyU"
   uri              : # URL
