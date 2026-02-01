@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a jointly-trained PhD candidate admitted for the Fall 2024 intake, affiliated with the [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk), and [Eastern Institute of Technology (EIT)](https://www.eitech.edu.cn/). I am honored to be co-supervised by [Prof. Changwen Chen](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chen-changwen/?sc_lang=en) from PolyU and [Assistant Prof. Xin Jin](https://jinx-ustc.github.io/jinxin.github.io/) from EIT. Please feel free to reach out if you are interested in related topics :).
+I'm a jointly trained PhD candidate admitted for the Fall 2024 intake, affiliated with the Department of Computing at The Hong Kong Polytechnic University (PolyU) and the Eastern Institute of Technology (EIT). I am honored to be co-supervised by [Prof. Changwen Chen](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chen-changwen/?sc_lang=en) from PolyU and [Assistant Prof. Xin Jin](https://jinx-ustc.github.io/jinxin.github.io/) from EIT. Please feel free to reach out if you are interested in related topics :)
 
 # Research Interest
 
