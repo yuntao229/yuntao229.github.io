@@ -15,10 +15,12 @@ My research interests cover Visual Representation, Reasoning, and Compression, w
 
 # Education
 - **The Hong Kong Polytechnic University, Hong Kong, China**<br>
-  Ph.D. in Computer Science (Expected Jun. 2028)
+  Ph.D. in Computer Science (Sep. 2024 - Expected 2028)
 
-- **University of Science & Technology of China, Hefei, China**<br>
+- **University of Science and Technology of China, Hefei, China**<br>
   M.E in Computer Technology (Sep. 2021 - Jun. 2024)
 
 - **Dalian University, Dalian, China**<br>
   B.E. Software Engineering (Sep. 2015 - Jun. 2019)
+# News
+Coming soon...
