@@ -14,12 +14,11 @@ I'm a jointly-trained PhD candidate admitted for the Fall 2024 intake, affiliate
 My research interests cover Visual Representation, Reasoning, and Compression, with a particular focus on visual token compression and multimodal understanding now.
 
 # Education
-Ph.D. in Computer Science (Jun. 2024 - expected 2028)
-- **The Hong Kong Polytechnic University, Hong Kong, China** 
-  Ph.D. in Computer Science (Expected Jun. 2028) 
+- **The Hong Kong Polytechnic University, Hong Kong, China**<br>
+  Ph.D. in Computer Science (Expected Jun. 2028)
 
-- **University of Science & Technology of China, Hefei, China**
-  M.E in Computer Technology  (Sep. 2021 - Jun. 2024)  
+- **University of Science & Technology of China, Hefei, China**<br>
+  M.E in Computer Technology (Sep. 2021 - Jun. 2024)
 
-- **Dalian University, Dalian, China** 
-  B.S. in Computer Science and Technology(Sep. 2015 - Jun. 2019)
+- **Dalian University, Dalian, China**<br>
+  B.E. Software Engineering (Sep. 2015 - Jun. 2019)
