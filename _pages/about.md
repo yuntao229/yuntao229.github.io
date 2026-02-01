@@ -22,5 +22,7 @@ My research interests cover Visual Representation, Reasoning, and Compression, w
 
 - **Dalian University, Dalian, China**<br>
   B.E. Software Engineering (Sep. 2015 - Jun. 2019)
+
 # News
+
 Coming soon...
