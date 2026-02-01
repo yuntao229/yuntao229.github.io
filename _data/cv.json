@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuntao WEI (魏运涛)",
+    "email": "yuntao.wei@connect.polyu.hk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yuntao229.github.io/",
+    "summary": "Currently studying at HKPU. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Hong Kong",
       "countryCode": "US",
-      "region": ""
+      "region": "Kowloon"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=ftMKjLYAAAAJ&hl=en"
       },
       {
-        "network": "ORCID",
+        "network": "",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yuntao229",
+        "url": "https://github.com/yuntao229"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "The Hong Kong Polytechnic University",
+      "area": "Ph.D. in Computer Science",
+      "studyType": "Full-time",
+      "startDate": "Sep. 2024",
+      "endDate": "Jun. 2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "The University of Science & Technology of China",
+      "area": "M.E. in Computer Technology",
+      "studyType": "Full-time",
+      "startDate": "Sep. 2021",
+      "endDate": "Jun. 2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Dalian University",
+      "area": "B.E. in Software Engineering",
+      "studyType": "Full-time",
+      "startDate": "Sep. 2015",
+      "endDate": "Jun. 2019",
       "gpa": null,
       "courses": []
     }
