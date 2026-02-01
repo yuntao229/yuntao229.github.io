@@ -11,4 +11,6 @@ I'm a jointly-trained PhD candidate admitted for the Fall 2024 intake, affiliate
 
 # Research Interest
 
-My research interests cover topics in Visual Representation and Compression, with a particular focus on visual token compression and multimodal understanding. Please feel free to reach out if you are interested in related topics :)
+My research interests cover Visual Representation, Reasoning, and Compression, with a particular focus on visual token compression and multimodal understanding now. Please feel free to reach out if you are interested in related topics :)
+
+# News
